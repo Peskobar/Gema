@@ -176,5 +176,182 @@
     "dane": {
       "active": true
     }
+  },
+  {
+    "czas": "2025-07-03T17:21:15.158130",
+    "akcja": "pobierz_tryb",
+    "dane": {}
+  },
+  {
+    "czas": "2025-07-03T17:21:15.163007",
+    "akcja": "ustaw_tryb",
+    "dane": {
+      "mode": "auto"
+    }
+  },
+  {
+    "czas": "2025-07-03T17:21:15.166337",
+    "akcja": "pobierz_tryb",
+    "dane": {}
+  },
+  {
+    "czas": "2025-07-03T17:21:15.172890",
+    "akcja": "ustaw_parametry",
+    "dane": {
+      "napiecie_kv": 40.0,
+      "prad_ua": 200.0,
+      "przeplyw_kg_min": 6.0
+    }
+  },
+  {
+    "czas": "2025-07-03T17:21:15.175465",
+    "akcja": "pobierz_parametry",
+    "dane": {}
+  },
+  {
+    "czas": "2025-07-03T17:21:15.179217",
+    "akcja": "czyszczenie",
+    "dane": {}
+  },
+  {
+    "czas": "2025-07-03T17:21:15.182742",
+    "akcja": "dual",
+    "dane": {
+      "active": true
+    }
+  },
+  {
+    "czas": "2025-07-03T17:21:24.596440",
+    "akcja": "pobierz_tryb",
+    "dane": {}
+  },
+  {
+    "czas": "2025-07-03T17:21:24.608733",
+    "akcja": "ustaw_tryb",
+    "dane": {
+      "mode": "auto"
+    }
+  },
+  {
+    "czas": "2025-07-03T17:21:24.615949",
+    "akcja": "pobierz_tryb",
+    "dane": {}
+  },
+  {
+    "czas": "2025-07-03T17:21:24.626784",
+    "akcja": "ustaw_parametry",
+    "dane": {
+      "napiecie_kv": 40.0,
+      "prad_ua": 200.0,
+      "przeplyw_kg_min": 6.0
+    }
+  },
+  {
+    "czas": "2025-07-03T17:21:24.634663",
+    "akcja": "pobierz_parametry",
+    "dane": {}
+  },
+  {
+    "czas": "2025-07-03T17:21:24.642917",
+    "akcja": "czyszczenie",
+    "dane": {}
+  },
+  {
+    "czas": "2025-07-03T17:21:24.651069",
+    "akcja": "dual",
+    "dane": {
+      "active": true
+    }
+  },
+  {
+    "czas": "2025-07-03T17:20:00Z",
+    "akcja": "frontend_update",
+    "dane": {}
+  },
+  {
+    "czas": "2025-07-03T17:23:35.821953",
+    "akcja": "pobierz_tryb",
+    "dane": {}
+  },
+  {
+    "czas": "2025-07-03T17:23:35.826077",
+    "akcja": "ustaw_tryb",
+    "dane": {
+      "mode": "auto"
+    }
+  },
+  {
+    "czas": "2025-07-03T17:23:35.829170",
+    "akcja": "pobierz_tryb",
+    "dane": {}
+  },
+  {
+    "czas": "2025-07-03T17:23:35.834376",
+    "akcja": "ustaw_parametry",
+    "dane": {
+      "napiecie_kv": 40.0,
+      "prad_ua": 200.0,
+      "przeplyw_kg_min": 6.0
+    }
+  },
+  {
+    "czas": "2025-07-03T17:23:35.837264",
+    "akcja": "pobierz_parametry",
+    "dane": {}
+  },
+  {
+    "czas": "2025-07-03T17:23:35.841199",
+    "akcja": "czyszczenie",
+    "dane": {}
+  },
+  {
+    "czas": "2025-07-03T17:23:35.844768",
+    "akcja": "dual",
+    "dane": {
+      "active": true
+    }
+  },
+  {
+    "czas": "2025-07-03T17:23:41.601749",
+    "akcja": "pobierz_tryb",
+    "dane": {}
+  },
+  {
+    "czas": "2025-07-03T17:23:41.614717",
+    "akcja": "ustaw_tryb",
+    "dane": {
+      "mode": "auto"
+    }
+  },
+  {
+    "czas": "2025-07-03T17:23:41.623448",
+    "akcja": "pobierz_tryb",
+    "dane": {}
+  },
+  {
+    "czas": "2025-07-03T17:23:41.637928",
+    "akcja": "ustaw_parametry",
+    "dane": {
+      "napiecie_kv": 40.0,
+      "prad_ua": 200.0,
+      "przeplyw_kg_min": 6.0
+    }
+  },
+  {
+    "czas": "2025-07-03T17:23:41.646712",
+    "akcja": "pobierz_parametry",
+    "dane": {}
+  },
+  {
+    "czas": "2025-07-03T17:23:41.657635",
+    "akcja": "czyszczenie",
+    "dane": {}
+  },
+  {
+    "czas": "2025-07-03T17:23:41.667842",
+    "akcja": "dual",
+    "dane": {
+      "active": true
+    }
   }
 ]

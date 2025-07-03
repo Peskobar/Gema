@@ -1,0 +1,7 @@
+{
+  "panelTitle": "Galileo Panel",
+  "header": "System control",
+  "lang": "Language",
+  "fetchError": "Connection error",
+  "log": "Event log"
+}
