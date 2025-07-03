@@ -1,0 +1,180 @@
+[
+  {
+    "czas": "2024-01-01T00:00:00Z",
+    "akcja": "start",
+    "dane": {}
+  },
+  {
+    "czas": "2024-01-01T00:01:00Z",
+    "akcja": "inicjalizacja",
+    "dane": {}
+  },
+  {
+    "czas": "2024-01-01T00:02:00Z",
+    "akcja": "pobierz_tryb",
+    "dane": {}
+  },
+  {
+    "czas": "2024-01-01T00:03:00Z",
+    "akcja": "ustaw_tryb",
+    "dane": {
+      "mode": "manual"
+    }
+  },
+  {
+    "czas": "2024-01-01T00:04:00Z",
+    "akcja": "pobierz_parametry",
+    "dane": {}
+  },
+  {
+    "czas": "2024-01-01T00:05:00Z",
+    "akcja": "ustaw_parametry",
+    "dane": {
+      "napiecie_kv": 50
+    }
+  },
+  {
+    "czas": "2024-01-01T00:06:00Z",
+    "akcja": "czyszczenie",
+    "dane": {}
+  },
+  {
+    "czas": "2024-01-01T00:07:00Z",
+    "akcja": "dual",
+    "dane": {
+      "active": false
+    }
+  },
+  {
+    "czas": "2024-01-01T00:08:00Z",
+    "akcja": "log",
+    "dane": {}
+  },
+  {
+    "czas": "2024-01-01T00:09:00Z",
+    "akcja": "koniec",
+    "dane": {}
+  },
+  {
+    "czas": "2025-07-03T17:14:24.504815",
+    "akcja": "pobierz_tryb",
+    "dane": {}
+  },
+  {
+    "czas": "2025-07-03T17:14:24.508196",
+    "akcja": "ustaw_tryb",
+    "dane": {
+      "mode": "auto"
+    }
+  },
+  {
+    "czas": "2025-07-03T17:14:24.510203",
+    "akcja": "pobierz_tryb",
+    "dane": {}
+  },
+  {
+    "czas": "2025-07-03T17:14:24.514426",
+    "akcja": "ustaw_parametry",
+    "dane": {
+      "napiecie_kv": 40.0,
+      "prad_ua": 200.0,
+      "przeplyw_kg_min": 6.0
+    }
+  },
+  {
+    "czas": "2025-07-03T17:14:24.516442",
+    "akcja": "pobierz_parametry",
+    "dane": {}
+  },
+  {
+    "czas": "2025-07-03T17:14:24.519287",
+    "akcja": "czyszczenie",
+    "dane": {}
+  },
+  {
+    "czas": "2025-07-03T17:14:37.150171",
+    "akcja": "pobierz_tryb",
+    "dane": {}
+  },
+  {
+    "czas": "2025-07-03T17:14:37.153142",
+    "akcja": "ustaw_tryb",
+    "dane": {
+      "mode": "auto"
+    }
+  },
+  {
+    "czas": "2025-07-03T17:14:37.155230",
+    "akcja": "pobierz_tryb",
+    "dane": {}
+  },
+  {
+    "czas": "2025-07-03T17:14:37.158781",
+    "akcja": "ustaw_parametry",
+    "dane": {
+      "napiecie_kv": 40.0,
+      "prad_ua": 200.0,
+      "przeplyw_kg_min": 6.0
+    }
+  },
+  {
+    "czas": "2025-07-03T17:14:37.160572",
+    "akcja": "pobierz_parametry",
+    "dane": {}
+  },
+  {
+    "czas": "2025-07-03T17:14:37.163133",
+    "akcja": "czyszczenie",
+    "dane": {}
+  },
+  {
+    "czas": "2025-07-03T17:14:37.165419",
+    "akcja": "dual",
+    "dane": {
+      "active": true
+    }
+  },
+  {
+    "czas": "2025-07-03T17:14:40.889522",
+    "akcja": "pobierz_tryb",
+    "dane": {}
+  },
+  {
+    "czas": "2025-07-03T17:14:40.896199",
+    "akcja": "ustaw_tryb",
+    "dane": {
+      "mode": "auto"
+    }
+  },
+  {
+    "czas": "2025-07-03T17:14:40.900221",
+    "akcja": "pobierz_tryb",
+    "dane": {}
+  },
+  {
+    "czas": "2025-07-03T17:14:40.906996",
+    "akcja": "ustaw_parametry",
+    "dane": {
+      "napiecie_kv": 40.0,
+      "prad_ua": 200.0,
+      "przeplyw_kg_min": 6.0
+    }
+  },
+  {
+    "czas": "2025-07-03T17:14:40.910608",
+    "akcja": "pobierz_parametry",
+    "dane": {}
+  },
+  {
+    "czas": "2025-07-03T17:14:40.915583",
+    "akcja": "czyszczenie",
+    "dane": {}
+  },
+  {
+    "czas": "2025-07-03T17:14:40.920483",
+    "akcja": "dual",
+    "dane": {
+      "active": true
+    }
+  }
+]
